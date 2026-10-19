@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>MonumentStudio</title>
+  <rect width="64" height="64" rx="12" fill="#171715"/>
+  <path d="M17 46V25a15 13 0 0 1 30 0v21Z" fill="#f6f3ed"/>
+  <path d="M12 49h40v6H12z" fill="#f6f3ed"/>
+  <path d="M25 29h14M25 35h14" stroke="#171715" stroke-width="3"/>
+</svg>

@@ -1,0 +1,75 @@
+{
+  "browser": "156.0.8078.4",
+  "sourceViewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "outputPixels": {
+    "width": 1440,
+    "height": 1120
+  },
+  "workflowSeconds": 84.0020129,
+  "recordingSeconds": 88.56,
+  "audio": false,
+  "treatment": "Actual browser capture with a separate caption band; no replaced UI, synthetic frames, or voice recording.",
+  "encodedBytes": 1951726,
+  "encodedSha256": "512a486ef5ddd401573ef9ab5a8826796f23573004b3941f578024fa4d5f4d30",
+  "rawSha256": "5fe7494c6faa1e0c8fa75d5d25437202228b70144e1cc0c4f9850c62c4fcaaca",
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.0028345,
+      "text": "MonumentStudio | A memorial design workflow\nActual application. Fictional example."
+    },
+    {
+      "start": 4.0028345,
+      "end": 9.0240046,
+      "text": "Choose an oval top and adjust dimensions.\nBoth elevations use the same inch-based model."
+    },
+    {
+      "start": 9.0240046,
+      "end": 19.000962299999998,
+      "text": "Add the family name, dates, and a line of remembrance.\nEvery detail in this demonstration is fictional."
+    },
+    {
+      "start": 19.000962299999998,
+      "end": 25.001789499999997,
+      "text": "Position the lettering precisely.\nMove the selected line in quarter-inch steps."
+    },
+    {
+      "start": 25.001789499999997,
+      "end": 35.00136719999999,
+      "text": "Oversized lettering triggers a real layout warning.\nThe guide is preliminary; final engraving clearance still needs review."
+    },
+    {
+      "start": 35.00136719999999,
+      "end": 43.002055399999996,
+      "text": "Review calculated face area and solid volume.\nThese estimates do not establish weight or manufacturing approval."
+    },
+    {
+      "start": 43.002055399999996,
+      "end": 56.0004838,
+      "text": "Save explicitly, refresh, then reopen the saved design.\nThis save belongs to this browser and device."
+    },
+    {
+      "start": 56.0004838,
+      "end": 63.001235099999995,
+      "text": "Download the high-resolution design image.\nThe real PNG contains both elevations at 3840 × 2440 pixels."
+    },
+    {
+      "start": 63.001235099999995,
+      "end": 69.0011292,
+      "text": "Generate a PDF summary of the same design.\nIt includes dimensions, lettering, calculations, and limitations."
+    },
+    {
+      "start": 69.0011292,
+      "end": 79.0019184,
+      "text": "Prepare a preliminary proposal with optional review notes.\nIt is not a quote, contract, or production approval."
+    },
+    {
+      "start": 79.0019184,
+      "end": 88.56,
+      "text": "One design connects editing, recovery, and documents.\nHuman review remains essential."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "monumentstudio-design",
+  "schemaVersion": 1,
+  "units": "in",
+  "profile": { "kind": "upright-oval", "capRiseIn": 8 },
+  "dimensions": {
+    "tablet": { "width": 48, "height": 30, "thickness": 8 },
+    "base": { "width": 60, "height": 8, "depth": 14 }
+  },
+  "inscriptions": [
+    { "id": "name", "content": "FAMILY NAME", "xIn": 24, "yIn": 12, "fontSizeIn": 3 },
+    { "id": "dates", "content": "19XX — 20XX", "xIn": 24, "yIn": 17, "fontSizeIn": 1.4 },
+    { "id": "epitaph", "content": "A life remembered", "xIn": 24, "yIn": 23, "fontSizeIn": 1.2 }
+  ]
+}

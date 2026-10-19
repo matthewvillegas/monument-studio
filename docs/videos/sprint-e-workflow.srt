@@ -1,0 +1,54 @@
+1
+00:00:00,000 --> 00:00:04,003
+MonumentStudio | A memorial design workflow
+Actual application. Fictional example.
+
+2
+00:00:04,003 --> 00:00:09,024
+Choose an oval top and adjust dimensions.
+Both elevations use the same inch-based model.
+
+3
+00:00:09,024 --> 00:00:19,001
+Add the family name, dates, and a line of remembrance.
+Every detail in this demonstration is fictional.
+
+4
+00:00:19,001 --> 00:00:25,002
+Position the lettering precisely.
+Move the selected line in quarter-inch steps.
+
+5
+00:00:25,002 --> 00:00:35,001
+Oversized lettering triggers a real layout warning.
+The guide is preliminary; final engraving clearance still needs review.
+
+6
+00:00:35,001 --> 00:00:43,002
+Review calculated face area and solid volume.
+These estimates do not establish weight or manufacturing approval.
+
+7
+00:00:43,002 --> 00:00:56,000
+Save explicitly, refresh, then reopen the saved design.
+This save belongs to this browser and device.
+
+8
+00:00:56,000 --> 00:01:03,001
+Download the high-resolution design image.
+The real PNG contains both elevations at 3840 × 2440 pixels.
+
+9
+00:01:03,001 --> 00:01:09,001
+Generate a PDF summary of the same design.
+It includes dimensions, lettering, calculations, and limitations.
+
+10
+00:01:09,001 --> 00:01:19,002
+Prepare a preliminary proposal with optional review notes.
+It is not a quote, contract, or production approval.
+
+11
+00:01:19,002 --> 00:01:28,560
+One design connects editing, recovery, and documents.
+Human review remains essential.

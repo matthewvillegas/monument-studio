@@ -1,0 +1,44 @@
+{
+  "format": "monumentstudio-design",
+  "schemaVersion": 1,
+  "units": "in",
+  "profile": {
+    "kind": "upright-oval",
+    "capRiseIn": 8
+  },
+  "dimensions": {
+    "tablet": {
+      "width": 48,
+      "height": 32,
+      "thickness": 9
+    },
+    "base": {
+      "width": 60,
+      "height": 8,
+      "depth": 14
+    }
+  },
+  "inscriptions": [
+    {
+      "id": "name",
+      "content": "NORTH FAMILY",
+      "xIn": 24,
+      "yIn": 11.75,
+      "fontSizeIn": 2.5
+    },
+    {
+      "id": "dates",
+      "content": "1900 — 2000",
+      "xIn": 24,
+      "yIn": 17.4,
+      "fontSizeIn": 1.15
+    },
+    {
+      "id": "epitaph",
+      "content": "A life remembered",
+      "xIn": 24,
+      "yIn": 22.8,
+      "fontSizeIn": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Two trailing spaces are valid Markdown hard line breaks in retained reports.
+*.md whitespace=-blank-at-eol
+
+# Keep collected upstream license text intact, including original whitespace.
+public/THIRD_PARTY_NOTICES.txt whitespace=-blank-at-eol,-blank-at-eof
